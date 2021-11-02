@@ -1,0 +1,5 @@
+rootProject.name = "Camera"
+include ':app'
+include ':p1311cameraintent'
+include ':p1321camera2apiintro'
+include ':p1321preparecamera'
